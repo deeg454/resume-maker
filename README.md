@@ -1,3 +1,7 @@
+# Description
+I made a simple little resume generator using React and Tailwind.
+Currently you can only see a preview of what your resume would look like ill add an export feature eventually.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
